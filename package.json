@@ -59,7 +59,7 @@
     "luxon": "^1.15.0",
     "markdown-it": "^8.4.2",
     "markdown-it-anchor": "^5.0.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "smoothscroll-polyfill": "^0.4.4",
     "typogr": "^0.6.8"
   }
